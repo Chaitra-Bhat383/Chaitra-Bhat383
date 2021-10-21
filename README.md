@@ -4,7 +4,7 @@
 
 ## 🏆 GitHub Stats
 
-![Chaitra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chaitra-Bhat383&theme=dracula&showicons=true&exclude_repo=Solutions-Introduction-to-TensorFlow-for-Artificial-Intelligence-Machine-Learning-and-Deep-Learning,Fruit-Classifier,Fase-Mask-Detector&show_icons=true&count_private=true])
+![Chaitra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chaitra-Bhat383&theme=chartreuse-dark&showicons=true&show_icons=true&count_private=true])
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chaitra-Bhat383&layout=compact&theme=dracula&langs_count=8])
 
