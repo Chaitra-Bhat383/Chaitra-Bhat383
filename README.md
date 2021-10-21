@@ -6,7 +6,7 @@
 
 ![Chaitra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chaitra-Bhat383&theme=chartreuse-dark&showicons=true&show_icons=true&count_private=true])
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chaitra-Bhat383&layout=compact&theme=dracula&langs_count=8])
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chaitra-Bhat383&layout=compact&theme=chartreuse-dark&langs_count=8])
 
 
 
