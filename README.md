@@ -10,8 +10,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Chaitra-Bhat383&theme=chartreuse-dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-<img src="https://activity-graph.herokuapp.com/graph?user=Chaitra-Bhat383&theme=chartreuse-dark"/>
-
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Chaitra-Bhat383&theme=chartreuse-dark)]
 
 
 
