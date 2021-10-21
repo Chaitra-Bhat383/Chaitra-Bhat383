@@ -1,4 +1,4 @@
-### Hi there, I am Chaitra Bhat 👋
+## Hi there, I am Chaitra Bhat 👋
 
 
 #### I'm a Computer science under-grad student at PES University. I have a huge passion for my work. I am a ML and Web Development enthusiast and open to projects regarding the same.
