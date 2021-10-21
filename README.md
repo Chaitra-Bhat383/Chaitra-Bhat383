@@ -4,11 +4,12 @@
 #### I'm a Computer science under-grad student at PES University. I have a huge passion for my work. I am a ML and Web Development enthusiast and open to projects regarding the same.
 
 
-![Chaitra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chaitra-Bhat383&count_private=true&theme=dracula&showicons=true])
+![Chaitra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chaitra-Bhat383&count_private=true&theme=dracula&showicons=true&hide=issues])
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chaitra-Bhat383&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Chaitra-Bhat383)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chaitra-Bhat383&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+
 
