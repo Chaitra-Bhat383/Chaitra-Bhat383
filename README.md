@@ -11,7 +11,11 @@
 
 ## 🏆 GitHub Stats
 
+![Chaitra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chaitra-Bhat383&theme=chartreuse-dark&showicons=true&show_icons=true&count_private=true])
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chaitra-Bhat383&layout=compact&theme=chartreuse-dark&langs_count=8])
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Chaitra-Bhat383&theme=chartreuse-dark)]
 
 ![Chaitra's github activity graph](https://activity-graph.herokuapp.com/graph?username=Chaitra-Bhat383&theme=chartreuse-dark)
 
