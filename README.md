@@ -1,6 +1,6 @@
 # Hi there, I am Chaitra Bhat 👋
 
-I'm a Computer science under-grad student at PES University. I have a huge passion for my work. I am a ML and Web Development enthusiast and open to projects regarding the same.
+I'm a Computer science under-grad student at PES University. I have a huge passion for my work. I am a ML and Web Development enthusiast and open to projects regarding the same
 
 ## 👨‍💻 Languages
 <a href=""><img alt="" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
