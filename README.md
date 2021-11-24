@@ -47,6 +47,6 @@ I'm a Computer science under-grad student at PES University. I have a huge passi
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Chaitra-Bhat383&theme=chartreuse-dark&count_private=true)
 
-![Chaitra's github activity graph](https://activity-graph.herokuapp.com/graph?username=Chaitra-Bhat383&theme=chartreuse-dark)
+
 
 
