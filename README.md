@@ -2,12 +2,9 @@
 
 I'm still a beginner ! 
 
-
 It's all a little new !
 
-
 I'm still learning ! 
-
 
 AS I GO !!!
 
