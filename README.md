@@ -1,8 +1,14 @@
 # Hi there, I am Chaitra Bhat 👋
 
 I'm still a beginner ! 
-It's all a little new ! 
+
+
+It's all a little new !
+
+
 I'm still learning ! 
+
+
 AS I GO !!!
 
 ## 👨‍💻 Languages
